@@ -5,6 +5,7 @@ import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
+import java.util.ArrayList;
 import java.util.List;
 
 @Entity
@@ -33,4 +34,10 @@ public class Food {
 
     @ManyToOne
     private Restaurant restaurant;
+
+    private boolean isVegetarian;
+
+    private boolean isSeasonal;
+
+    private List<Ingredients> ingredients = new ArrayList<>();
 }

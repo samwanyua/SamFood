@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4d29338-d599-4732-b521-77381ab0f989" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/SamFood.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samfood/src/main/java/com/wanyua/Samfood/Model/Addresses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samfood/src/main/java/com/wanyua/Samfood/Model/Food.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samfood/src/main/java/com/wanyua/Samfood/Model/Order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samfood/src/main/java/com/wanyua/Samfood/Model/OrderItem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samfood/src/main/java/com/wanyua/Samfood/Model/Restaurant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samfood/src/main/java/com/wanyua/Samfood/Model/USER_ROLE.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samfood/src/main/java/com/wanyua/Samfood/Model/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Samfood/src/main/java/com/wanyua/Samfood/dto/RestaurantDto.java" afterDir="false" />
-    </list>
+    <list default="true" id="a4d29338-d599-4732-b521-77381ab0f989" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,5 +70,16 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Samfood/src/main/java/com/wanyua/Samfood/Model/Food.java</url>
+          <line>35</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
