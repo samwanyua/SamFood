@@ -23,7 +23,7 @@ public class Restaurant {
 
     @OneToOne
     private Addresses address;
-
+    @Embedded
     private ContactInformation contactInformation;
 
 }

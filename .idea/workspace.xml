@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4d29338-d599-4732-b521-77381ab0f989" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Samfood/src/main/java/com/wanyua/Samfood/Model/Food.java" beforeDir="false" afterPath="$PROJECT_DIR$/Samfood/src/main/java/com/wanyua/Samfood/Model/Food.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Samfood/src/main/java/com/wanyua/Samfood/Model/ContactInformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/Samfood/src/main/java/com/wanyua/Samfood/Model/ContactInformation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
