@@ -6,6 +6,7 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 import java.util.ArrayList;
+import java.util.Date;
 import java.util.List;
 
 @Entity
@@ -39,5 +40,8 @@ public class Food {
 
     private boolean isSeasonal;
 
+    @ManyToMany
     private List<Ingredients> ingredients = new ArrayList<>();
+
+    private Date creationDate;
 }
